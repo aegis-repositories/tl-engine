@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Rust build artifacts
+target
+
+# Editor / OS
+.vscode
+.idea
+*.swp
+*.log
+.DS_Store
+
+# Node / otros (por si el repo crece)
+node_modules
+
+# Docker
+Dockerfile
+docker-compose.yml

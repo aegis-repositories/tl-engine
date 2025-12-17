@@ -12,9 +12,6 @@ target
 *.log
 .DS_Store
 
-# Node / otros (por si el repo crece)
-node_modules
-
 # Docker
 Dockerfile
 docker-compose.yml

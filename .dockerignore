@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Rust build artifacts
+target
+
+# Editor / OS
+.vscode
+.idea
+*.swp
+*.log
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
